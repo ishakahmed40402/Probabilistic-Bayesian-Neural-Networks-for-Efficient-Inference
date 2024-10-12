@@ -1,1 +1,3 @@
 # Probabilistic-Bayesian-Neural-Networks-for-Efficient-Inference
+In this research, I worked on designing and implementing Probabilistic Bayesian Neural Networks (ProbBNNs) to enhance
+the efficiency of inference in deep learning tasks. By leveraging probabilistic computing principles, I developed a novel framework where inputs and model parameters are treated as random variables governed by probability distributions. This approach significantly reduced the computational complexity and parameter count compared to traditional Bayesian Neural Networks, making it more suitable for resource-constrained environments such as edge computing.
